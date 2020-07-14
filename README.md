@@ -1,2 +1,2 @@
 # kalkulator
-AC not working :)
+:)
