@@ -1,2 +1,2 @@
 # kalkulator
-personal project akhir dari DTS HTML CSS JavaScript dika :)
+personal project akhir HTML CSS JavaScript dika :)
